@@ -77,3 +77,4 @@ c:\Users\dtsim\Desktop\c#learning\BlazorApp\BlazorApp\obj\Debug\net9.0\refint\Bl
 c:\Users\dtsim\Desktop\c#learning\BlazorApp\BlazorApp\obj\Debug\net9.0\BlazorApp.pdb
 c:\Users\dtsim\Desktop\c#learning\BlazorApp\BlazorApp\obj\Debug\net9.0\BlazorApp.genruntimeconfig.cache
 c:\Users\dtsim\Desktop\c#learning\BlazorApp\BlazorApp\obj\Debug\net9.0\ref\BlazorApp.dll
+c:\Users\dtsim\Desktop\c#learning\BlazorApp\BlazorApp\obj\Debug\net9.0\BlazorApp.sourcelink.json
